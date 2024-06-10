@@ -1,0 +1,4 @@
+Gb - class2 - ges 	dopredu
+Ab - class3 - aes 	dolava
+Bb - class4 - bes 	doprava
+C  - class5 - c 	dozadu

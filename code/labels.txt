@@ -1,0 +1,5 @@
+0 Background Noise
+1 Dolava
+2 Doprava
+3 Dopredu
+4 Dozadu
